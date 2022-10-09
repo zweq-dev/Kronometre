@@ -1,0 +1,14 @@
+C:\Users\zweq\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\zweq\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Bunifu.Licensing.dll
+C:\Users\zweq\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\zweq\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\zweq\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\zweq\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\zweq\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\zweq\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CopyComplete
+C:\Users\zweq\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Guna.UI2.dll
+C:\Users\zweq\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Kronometre.exe.config
+C:\Users\zweq\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Kronometre.exe
+C:\Users\zweq\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Kronometre.pdb
+C:\Users\zweq\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\Kronometre.exe
+C:\Users\zweq\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\Kronometre.pdb
